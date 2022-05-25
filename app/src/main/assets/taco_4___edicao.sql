@@ -1,0 +1,2 @@
+CREATE TABLE IF NOT EXISTS taco_4 (id integer primary key autoincrement, Caterogia varchar, Alimento varchar);
+INSERT INTO taco_4 (Caterogia, Alimento) VALUES ("Cereais e derivados", "Arroz"),("Cereais e derivados", "Biscoito"),("Cereais e derivados", "doce"),("Verduras, hortaliças e derivados", "Abóbora"),("Carnes e derivados", "Carne")
